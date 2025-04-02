@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "meeting_room.json",
+    "activeFile": "",
     "expandedProjectPaths": [
         "."
     ],
@@ -100,18 +100,14 @@
     "map.lastUsedFormat": "json",
     "map.width": 91,
     "openFiles": [
-        "lobby.json",
-        "lounge.json",
-        "meeting_room.json",
-        "showroom.json"
     ],
     "project": "showtable.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "lobby.json",
-        "lounge.json",
         "showroom.json",
         "meeting_room.json",
+        "lounge.json",
+        "lobby.json",
         "showtable.json"
     ],
     "tileset.embedInMap": true
